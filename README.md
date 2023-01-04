@@ -1,6 +1,9 @@
 # Location-Mapper
 (Created 8/4/22) 
 
+Mapping program that reads files containing coordinates. Upon input, this program prints a map of the University of Rochester or New York State, in addition to the shortest path between two vertices (intersections) selected by the user. Program was designed primarily using the graph data structure and java graphics. 
+
+
 
 To compile program, insert line below:
 
